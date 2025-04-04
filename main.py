@@ -11,6 +11,6 @@ def element(index, A, B):
 
 
 matrix1 = [[1, 2], [3, 4]]
-matrix2 = [[2, 0], [1, 2]]
+matrix2 = [[2, 0], [1, 3]]
 
 print(element((1, 0), matrix1, matrix2))
